@@ -1,0 +1,24 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willreed111185/ConstructorHangman.git"
+  },
+  "author": "williamreed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willreed111185/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/willreed111185/ConstructorHangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "moment": "^2.18.1",
+    "moment-datetime": "0.0.2"
+  }
+}
